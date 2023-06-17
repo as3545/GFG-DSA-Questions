@@ -6,7 +6,6 @@ Geek is very fond of patterns. Once, his teacher gave him a pattern to solve. He
 Help Geek build a star pattern.
 
  
-
 Example 1:
 
 Input: 5
