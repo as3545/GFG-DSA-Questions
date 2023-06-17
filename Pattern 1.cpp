@@ -4,7 +4,6 @@ Geek is very fond of patterns. Once, his teacher gave him a square pattern to so
 Help Geek to build a star pattern.
 
  
-
 Example 1:
 
 Input: 5
