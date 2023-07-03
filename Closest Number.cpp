@@ -22,7 +22,7 @@ Explanation:
 -12 and -18 are both similarly close to
 -15 and divisible by 6. but -18 has
 the maximum absolute value.
-So, Output is -18
+So, the Output is -18
  
 
 Your Task:
@@ -33,7 +33,7 @@ You don't need to read input or print anything. Your task is to complete the fun
 Expected Time Complexity: O(1)
 Expected Auxiliary Space: O(1)
 
- 
+Company: Microsoft 
 
 Constraints:
 -105 <= N <= 105
@@ -43,3 +43,10 @@ Constraints:
 */
 
 //Code:
+
+public:
+    int closestNumber(int N , int M) {
+        // code here
+        return round(N/float(M))*M;
+    }
+};
