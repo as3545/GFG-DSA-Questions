@@ -29,3 +29,11 @@ int main(){
     cout<<checkpassword(password);
     return 0;
 }
+
+
+/*
+Input 
+bB1_89
+1
+
+*/
